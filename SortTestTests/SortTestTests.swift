@@ -55,10 +55,7 @@ class SortTestTests: XCTestCase {
                 }
                 
             }
-            
-            //sort(myStringArray)
-            
-            
+
             func hugeUnsortedArray() -> [Int] {
                 let arraySize = 2000
                 let range = 10000
